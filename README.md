@@ -174,6 +174,7 @@ Depois que sua solicitação de pull request for mesclada, você pode excluir `y
   <img alt="Made by Marcelo Rafael Gonçalves" src="https://img.shields.io/badge/-Github-0077B5?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/marcelo-rafael" />
   </a>
 </div>
+
 ---
 
 ##### 📝 LICENÇA
