@@ -37,7 +37,7 @@
 
 #### 🚀 Sobre o Projeto
 
-O OriginSix é uma aplicação web de salão de cabeleireiros.
+OriginSix é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer
 
 ---
 
@@ -115,10 +115,15 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **[HTML]([Web/HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML))**
 - **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
 - **[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
-- **[swiper.js](https://swiperjs.com/)**
-- **[scrollreveal](https://scrollrevealjs.org/)**
 
+Bibliotecas
+- **[Google Fonts](https://fonts.google.com/)
+- **[Swiper.js](https://swiperjs.com/)**
+- **[ScrollReveal](https://scrollrevealjs.org/)**
 
+Utilitários
+- **[Random User Generator](https://randomuser.me/photos)**
+- **[IconMoon](https://icomoon.io/app/#/select)**
 ---
 
 #### 🚀 Como executar o projeto
