@@ -89,6 +89,7 @@ Design feito por [Rebecca Gonzalez](https://dribbble.com/rebeccagonzalez)
   <img alt="beautySalon" title="beautySalon" src=".github/home-mobile.png" width="400px" />
   <p align="center">Tela inicial - OriginSix<p>
 </h4>
+
 ---
 
 #### :crossed_swords: Desafios para melhorar a aplicação
